@@ -5,7 +5,7 @@ layout: default
 
 # Full 8-Week Schedule
 
-The program runs as **two 8-session levels**, typically one session per week (8 weeks per level), or condensed into an intensive 2-week bootcamp (one session per day). Each session is 2–2.5 hours.
+The program runs as **two 8-session levels**, typically one session per week (8 weeks per level), or condensed into an intensive 4-week training (two sessions per week). Each session is 1–1.5 hours.
 
 ## Level 1 — Beginner (Weeks 1–8)
 
