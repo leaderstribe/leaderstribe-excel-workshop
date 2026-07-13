@@ -1,0 +1,18 @@
+title: "Excel for Data Analysis for Women — Facilitator Site"
+description: "Leaders Tribe facilitator guide for the Excel for Data Analysis for Women workshop (Level 1 & Level 2)."
+theme: jekyll-theme-minimal
+markdown: kramdown
+show_downloads: true
+plugins:
+  - jekyll-relative-links
+nav_pages:
+  - index.md
+  - setup.md
+  - schedule.md
+  - level1/overview.md
+  - level2/overview.md
+  - facilitator-guide.md
+  - rubrics.md
+  - facilitator-tips.md
+  - common-errors.md
+  - workbook-structure.md

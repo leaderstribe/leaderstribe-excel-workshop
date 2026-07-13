@@ -1,0 +1,11 @@
+Order ID,Cooperative,Region,Product,Category,Units Sold,Unit Price (NGN),Month
+OD001,Umoja Women Coop,Nairobi,Shea Butter,Skincare,120,1500,January
+OD002,Amka Farmers Coop,Nairobi,Honey,Food,80,2500,January
+OD003,Umoja Women Coop,Nairobi,Black Soap,Skincare,200,800,January
+OD004,Sisi ni Amka Coop,Mombasa,Rice,Food,300,1200,January
+OD005,Umoja Women Coop,Nairobi,Shea Butter,Skincare,150,1500,February
+OD006,Amka Farmers Coop,Nairobi,Honey,Food,95,2500,February
+OD007,Sisi ni Amka Coop,Mombasa,Rice,Food,280,1250,February
+OD008,Umoja Women Coop,Nairobi,Black Soap,Skincare,220,800,February
+OD009,Amka Farmers Coop,Nairobi,Honey,Food,100,2500,March
+OD010,Sisi ni Amka Coop,Mombasa,Rice,Food,310,1250,March

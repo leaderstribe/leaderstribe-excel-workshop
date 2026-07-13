@@ -1,0 +1,9 @@
+Patient Code,Community,Age,Weight (kg),Height (cm),Visit Type,Outcome
+H0231,Makoko,29,58,160,Antenatal,Referred
+H0232,Ajegunle,34,62,158,Immunization,Completed
+H0233,Mushin,22,55,162,Antenatal,Completed
+H0234,Makoko,41,70,165,General Checkup,Completed
+H0235,Ajegunle,3,15,90,Immunization,Referred
+H0236,Mushin,27,60,159,Antenatal,Completed
+H0237,Makoko,19,50,155,General Checkup,Completed
+H0238,Ajegunle,45,75,168,General Checkup,Referred
