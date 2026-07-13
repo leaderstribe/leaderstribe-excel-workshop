@@ -2,7 +2,7 @@
 
 A GitHub Pages facilitator site for **Leaders Tribe's "Excel for Data Analysis for Women"** training — an 8-week, two-level (Beginner + Intermediate) Excel workshop built for facilitators teaching African women in NGOs, cooperatives, savings groups, and small businesses.
 
-Structure and learning-site style loosely inspired by [Data Carpentry's Python & Ecology lesson](https://datacarpentry.github.io/python-ecology-lesson/aio.html) — this repository contains entirely original Excel-focused content, datasets, and branding, and does not use any Data Carpentry wording, branding, or Python/ecology material.
+This repository contains entirely original Excel-focused content and datasets.
 
 ## What this site is for
 
