@@ -15,7 +15,7 @@ By the end of Level 2, a learner should be able to clean a messy dataset (duplic
 
 1. [Session 1 — Remove Duplicates & Text-to-Columns](session-01.md)
 2. [Session 2 — Flash Fill & Data Validation / Dropdowns](session-02.md)
-3. [Session 3 — VLOOKUP & XLOOKUP](session-03.md)
+3. [Session 3 — VLOOKUP](session-03.md)
 4. [Session 4 — INDEX-MATCH](session-04.md)
 5. [Session 5 — COUNTIF, SUMIF, AVERAGEIF, IFS, IFERROR](session-05.md)
 6. [Session 6 — PivotTables](session-06.md)
