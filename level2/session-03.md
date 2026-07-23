@@ -1,16 +1,16 @@
 ---
-title: "Level 2 — Session 3: VLOOKUP & XLOOKUP"
+title: "Level 2 — Session 3: VLOOKUP"
 layout: default
 ---
 [← Session 2](session-02.md) | [Level 2 Overview](overview.md)
 
-# Session 3: VLOOKUP & XLOOKUP
+# Session 3: VLOOKUP 
 
-**1. Session Title:** VLOOKUP & XLOOKUP
+**1. Session Title:** VLOOKUP
 
-**2. Learning Goal:** Learners can look up information from one table into another using both VLOOKUP and the newer XLOOKUP function.
+**2. Learning Goal:** Learners can look up information from one table into another using the VLOOKUP function.
 
-**3. Duration:** 2.5 hours
+**3. Duration:** 1.5 hours
 
 **4. Facilitator Preparation:** Use `l2_cooperative_sales_data.csv` alongside `l2_lookup_reference_table.csv` (Product Code/Category/Standard Price reference).
 
@@ -22,14 +22,12 @@ layout: default
 1. Explain the goal: "I want Excel to find the Standard Price automatically, instead of me typing it in by hand."
 2. Build `=VLOOKUP(lookup_value, table_array, col_index_num, FALSE)` step by step: pick the Product name as the lookup value, select the reference table, count columns to find col_index_num, and always use FALSE for exact match.
 3. Show a common error: forgetting FALSE, which causes wrong/approximate matches.
-4. Introduce XLOOKUP: `=XLOOKUP(lookup_value, lookup_array, return_array)` — simpler because there's no column counting.
-5. Compare both side by side on the same task, discussing when XLOOKUP may not be available (older Excel versions).
 
 **8. Guided Hands-On Activity**
-Together: build one VLOOKUP formula to pull Standard Price into the cooperative sales sheet, then rebuild the same result using XLOOKUP.
+Together: build one VLOOKUP formula to pull Standard Price into the cooperative sales sheet.
 
 **9. Independent Practice Task**
-Learners add a "Category" column to the sales data and use either VLOOKUP or XLOOKUP to pull it in automatically from the reference table.
+Learners add a "Category" column to the sales data and use VLOOKUP to pull it in automatically from the reference table.
 
 **10. Expected Output**
 A sales sheet with an automatically-filled Category (or Price) column, matched correctly for every row.
@@ -41,7 +39,6 @@ A sales sheet with an automatically-filled Category (or Price) column, matched c
 
 **12. Reflection Questions**
 - Why do lookups fail so often when data isn't clean — what does this tell you about the order of Excel skills?
-- When would you prefer XLOOKUP over VLOOKUP, if you have the choice?
 
 **13. Assignment**
 Build one lookup formula connecting two of your own real lists (e.g. member names to phone numbers, or product to price).
